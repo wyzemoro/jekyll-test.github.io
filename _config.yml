@@ -1,2 +1,4 @@
 name: wyzemoro - Blogger, Information Security and Privacy Enthusiast.
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
